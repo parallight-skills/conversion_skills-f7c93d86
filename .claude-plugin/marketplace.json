@@ -1,0 +1,19 @@
+{
+  "name": "conversion_skills",
+  "owner": {
+    "name": "Parallight Skills",
+    "url": "https://github.com/parallight-skills"
+  },
+  "metadata": {
+    "description": "trial-to-paid conversion prediction pipeline: feature engineering + logistic model + calibration"
+  },
+  "plugins": [
+    {
+      "name": "conversion_skills",
+      "description": "trial-to-paid conversion prediction pipeline: feature engineering + logistic model + calibration",
+      "version": "0.1.0",
+      "source": "./",
+      "category": "ml"
+    }
+  ]
+}

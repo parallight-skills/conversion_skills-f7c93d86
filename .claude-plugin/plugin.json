@@ -1,0 +1,5 @@
+{
+  "name": "conversion_skills",
+  "version": "0.1.0",
+  "description": "trial-to-paid conversion prediction pipeline: feature engineering + logistic model + calibration"
+}
